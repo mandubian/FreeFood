@@ -43,6 +43,7 @@ Here is an example in english: http://www.epicurious.com/recipes/food/views/Veal
 
 - white rice
 - pasta
+- boiled potatoes/carrots
 
 
 
