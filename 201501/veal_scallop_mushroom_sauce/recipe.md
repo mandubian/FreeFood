@@ -32,11 +32,10 @@ Here is an example in english: http://www.epicurious.com/recipes/food/views/Veal
 - Do not use light cream, you will need twice the quantity for a worse taste
 - Do not burn shallots, just make them "sweat" in butter
 - You can also remove shallots from skillet meanwhile you grill the scallop & reput them in it for sauce
-- The veal mustn't be grilled too long to be soft
-- The sauce must be prepared in the same skillet as the veal
-- The veal mustn't stay in the sauce and should be kept hot in foil or oven
-- **DO NOT BOIL THE CREAM**, it's bad for taste & health: just eat it softly while stirring
-- reduce the sauce until obtaining creamy texture, not too liquid, not too solid
+- The veal mustn't be grilled too long to stay soft
+- The sauce must be prepared in the same skillet as the veal but not with the veal in it (put the veal in sauce just before serving)
+- **DO NOT BOIL THE CREAM**, it's bad for taste & health: just heat it softly while stirring
+- Reduce the sauce until obtaining creamy texture, not too liquid, not too solid
 
 
 
